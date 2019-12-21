@@ -3,7 +3,7 @@ const path = require('path')
 const fs = require('fs')
 
 module.exports = {
-  base: '/',
+  base: '/vuepress-doc/',
   title: '文档docs',
   description: 'Welcome to my docs',
   locales: {
