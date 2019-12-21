@@ -3,6 +3,7 @@ const path = require('path')
 const fs = require('fs')
 
 module.exports = {
+  base: '/',
   dese: 'pubilc',
   title: '文档docs',
   description: 'Welcome to my docs',
