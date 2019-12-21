@@ -12,7 +12,7 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m 'https://mingzu.github.io'
+git commit -m 'deploy'
 
 # 如果你想要部署到 https://<USERNAME>.github.io
 git push -f git@github.com:mingzu/mingzu.github.io.git master:gh-pages
